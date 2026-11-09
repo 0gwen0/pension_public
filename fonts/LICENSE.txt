@@ -1,0 +1,4 @@
+Pretendard 1.3.9 (https://github.com/orioncactus/pretendard)
+Author: Kil Hyung-jin
+License: SIL Open Font License, Version 1.1 (OFL-1.1) — https://openfontlicense.org
+This font is redistributed unmodified, as permitted by the OFL.
